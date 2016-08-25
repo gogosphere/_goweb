@@ -15,7 +15,6 @@ func main() {
 	router.HandleFunc("/", Index)
 	router.HandleFunc("/describe-instances", JsonFull)
 	router.HandleFunc("/{calledfile}", CalledFile)
-	router.HandleFunc("/todos/{todoId}", TodoShow)
 
 	log.Fatal(http.ListenAndServe(":8080", router))
 }
@@ -69,10 +68,4 @@ func CalledFile(w http.ResponseWriter, r *http.Request) {
 	*/
 	w.Header().Set("Content-Type", "application/json; charset=UTF-8")
 	fmt.Fprintln(w, string(file))
-}
-
-func TodoShow(w http.ResponseWriter, r *http.Request) {
-	vars := mux.Vars(r)
-	todoId := vars["todoId"]
-	fmt.Fprintln(w, "Todo show:", todoId)
 }
