@@ -1,0 +1,3790 @@
+{
+    "Tags": [
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-11570181", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-11570181", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-11570181", 
+            "Value": "dbops-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-11570181", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-11570181", 
+            "Value": "dbops MySQL Infrastructure Orchestration", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-11570181", 
+            "Value": "Database Operations", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-1f6f828c", 
+            "Value": "rhosman-test4", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-21ff2820", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-21ff2820", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-21ff2820", 
+            "Value": "cparker-whaddup", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-21ff2820", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-21ff2820", 
+            "Value": "to learn about aws", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-21ff2820", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-294353b9", 
+            "Value": "EphemeralDatabaseService-prod", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-294353b9", 
+            "Value": "awseb-e-4cycykaawu-stack-AWSEBAutoScalingGroup-TYG7263V0DU5", 
+            "Key": "aws:autoscaling:groupName"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-294353b9", 
+            "Value": "AWSEBAutoScalingGroup", 
+            "Key": "aws:cloudformation:logical-id"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-294353b9", 
+            "Value": "arn:aws:cloudformation:us-east-1:177623757656:stack/awseb-e-4cycykaawu-stack/86347fa0-62bc-11e6-b536-50d5cd24fac6", 
+            "Key": "aws:cloudformation:stack-id"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-294353b9", 
+            "Value": "awseb-e-4cycykaawu-stack", 
+            "Key": "aws:cloudformation:stack-name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-294353b9", 
+            "Value": "e-4cycykaawu", 
+            "Key": "elasticbeanstalk:environment-id"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-294353b9", 
+            "Value": "EphemeralDatabaseService-prod", 
+            "Key": "elasticbeanstalk:environment-name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-363c2ea6", 
+            "Value": "CodeDeployDemo", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-363c2ea6", 
+            "Value": "JenkinsCodeDeploy-WSASG-17EY4RIAJZYDV", 
+            "Key": "aws:autoscaling:groupName"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-363c2ea6", 
+            "Value": "WSASG", 
+            "Key": "aws:cloudformation:logical-id"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-363c2ea6", 
+            "Value": "arn:aws:cloudformation:us-east-1:177623757656:stack/JenkinsCodeDeploy/4db82430-3d8f-11e6-828e-500c32cd4462", 
+            "Key": "aws:cloudformation:stack-id"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-363c2ea6", 
+            "Value": "JenkinsCodeDeploy", 
+            "Key": "aws:cloudformation:stack-name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-39b788a9", 
+            "Value": "EphemeralDatabaseService-dev", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-39b788a9", 
+            "Value": "awseb-e-mpnpkhnfh2-stack-AWSEBAutoScalingGroup-IM4V4KRFJKJ6", 
+            "Key": "aws:autoscaling:groupName"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-39b788a9", 
+            "Value": "AWSEBAutoScalingGroup", 
+            "Key": "aws:cloudformation:logical-id"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-39b788a9", 
+            "Value": "arn:aws:cloudformation:us-east-1:177623757656:stack/awseb-e-mpnpkhnfh2-stack/48cced30-2669-11e6-80d7-503f23fb5536", 
+            "Key": "aws:cloudformation:stack-id"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-39b788a9", 
+            "Value": "awseb-e-mpnpkhnfh2-stack", 
+            "Key": "aws:cloudformation:stack-name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-39b788a9", 
+            "Value": "e-mpnpkhnfh2", 
+            "Key": "elasticbeanstalk:environment-id"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-39b788a9", 
+            "Value": "EphemeralDatabaseService-dev", 
+            "Key": "elasticbeanstalk:environment-name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-454426bd", 
+            "Value": "Platform", 
+            "Key": "Brand"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-454426bd", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-454426bd", 
+            "Value": "odis-orig-qa-sandbox-us-east-1e-0", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-454426bd", 
+            "Value": "lburton@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-454426bd", 
+            "Value": "Core Services", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-58b185c8", 
+            "Value": "bschneeman@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-58b185c8", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-58b185c8", 
+            "Value": "bschneeman-tensorflow", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-58b185c8", 
+            "Value": "bschneeman@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-58b185c8", 
+            "Value": "attempt to spin up a GPU instance with Tensorflow", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-58b185c8", 
+            "Value": "Data Science", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-70452788", 
+            "Value": "Platform", 
+            "Key": "Brand"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-70452788", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-70452788", 
+            "Value": "odis-orig-qa-sandbox-us-east-1e-0", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-70452788", 
+            "Value": "lburton@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-70452788", 
+            "Value": "Core Services", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-722ff28a", 
+            "Value": "303", 
+            "Key": "CostCenter"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-722ff28a", 
+            "Value": "postfix-stayz - test1", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-722ff28a", 
+            "Value": "tspinks@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-722ff28a", 
+            "Value": "Infrastructure", 
+            "Key": "Portfolio"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-722ff28a", 
+            "Value": "Sandbox", 
+            "Key": "Product"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-722ff28a", 
+            "Value": "Sandbox", 
+            "Key": "Service"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-722ff28a", 
+            "Value": "tspinks@homeaway.com", 
+            "Key": "Source"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-722ff28a", 
+            "Value": "test1", 
+            "Key": "opsworks:instance"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-722ff28a", 
+            "Value": "test", 
+            "Key": "opsworks:layer:test"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-722ff28a", 
+            "Value": "postfix-stayz", 
+            "Key": "opsworks:stack"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-7911ca81", 
+            "Value": "jz_search_sort_ML", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-7911ca81", 
+            "Value": "jzenchenko@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-7911ca81", 
+            "Value": "Search/Sort", 
+            "Key": "Portfolio"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-7911ca81", 
+            "Value": "Best Match", 
+            "Key": "Product"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-7911ca81", 
+            "Value": "Data Science Machine Learning Modeling", 
+            "Key": "Service"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-7b3525eb", 
+            "Value": "True", 
+            "Key": "IsSharedInstance"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-7b3525eb", 
+            "Value": "ephemeraldatabaseservice797a145c", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-7b3525eb", 
+            "Value": "rvarghese@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-8d3f2d1d", 
+            "Value": "CodeDeployDemo", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-8d3f2d1d", 
+            "Value": "JenkinsCodeDeploy-WSASG-17EY4RIAJZYDV", 
+            "Key": "aws:autoscaling:groupName"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-8d3f2d1d", 
+            "Value": "WSASG", 
+            "Key": "aws:cloudformation:logical-id"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-8d3f2d1d", 
+            "Value": "arn:aws:cloudformation:us-east-1:177623757656:stack/JenkinsCodeDeploy/4db82430-3d8f-11e6-828e-500c32cd4462", 
+            "Key": "aws:cloudformation:stack-id"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-8d3f2d1d", 
+            "Value": "JenkinsCodeDeploy", 
+            "Key": "aws:cloudformation:stack-name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-8edb9b1e", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-8edb9b1e", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-8edb9b1e", 
+            "Value": "dbops-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-8edb9b1e", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-8edb9b1e", 
+            "Value": "dbops MySQL Infrastructure Orchestration", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-8edb9b1e", 
+            "Value": "Database Operations", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-91a4880f", 
+            "Value": "Atlas-Test", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-91a4880f", 
+            "Value": "atlas-test-group", 
+            "Key": "aws:autoscaling:groupName"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-93e77e6b", 
+            "Value": "bboles-simian-poc", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-93e77e6b", 
+            "Value": "Infrastructure", 
+            "Key": "Portfolio"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-93e77e6b", 
+            "Value": "Sandbox", 
+            "Key": "Product"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-93e77e6b", 
+            "Value": "Sandbox", 
+            "Key": "Service"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-9624f097", 
+            "Value": "rhosman-ssh1", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-98256d08", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-98256d08", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-98256d08", 
+            "Value": "dbops-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-98256d08", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-98256d08", 
+            "Value": "dbops MySQL Infrastructure Orchestration", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-98256d08", 
+            "Value": "Database Operations", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-ad4ba13e", 
+            "Value": "test-amccook-ec2-instance", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-b2f26b4a", 
+            "Value": "marsmith-coreos", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-b95c4c29", 
+            "Value": "EphemeralDatabaseService-stage", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-b95c4c29", 
+            "Value": "awseb-e-dwwrnpzxvi-stack-AWSEBAutoScalingGroup-1WNNXK8HO0KTD", 
+            "Key": "aws:autoscaling:groupName"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-b95c4c29", 
+            "Value": "AWSEBAutoScalingGroup", 
+            "Key": "aws:cloudformation:logical-id"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-b95c4c29", 
+            "Value": "arn:aws:cloudformation:us-east-1:177623757656:stack/awseb-e-dwwrnpzxvi-stack/bb214e20-62ba-11e6-8c89-500c28680ac6", 
+            "Key": "aws:cloudformation:stack-id"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-b95c4c29", 
+            "Value": "awseb-e-dwwrnpzxvi-stack", 
+            "Key": "aws:cloudformation:stack-name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-b95c4c29", 
+            "Value": "e-dwwrnpzxvi", 
+            "Key": "elasticbeanstalk:environment-id"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-b95c4c29", 
+            "Value": "EphemeralDatabaseService-stage", 
+            "Key": "elasticbeanstalk:environment-name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-c9a6b459", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-c9a6b459", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-c9a6b459", 
+            "Value": "Heartbeat_test", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-c9a6b459", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-c9a6b459", 
+            "Value": "to learn about aws", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-c9a6b459", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-cbedff5b", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-cbedff5b", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-cbedff5b", 
+            "Value": "test-stayz-dts-deploy", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-cbedff5b", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-cbedff5b", 
+            "Value": "to learn about aws", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-cbedff5b", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-d7203047", 
+            "Value": "True", 
+            "Key": "IsSharedInstance"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-d7203047", 
+            "Value": "ephemeraldatabaseservice381605c1", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-d7203047", 
+            "Value": "rvarghese@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-dc35274c", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-dc35274c", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-dc35274c", 
+            "Value": "dbedw_releng", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-dc35274c", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-dc35274c", 
+            "Value": "to learn about aws", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-dc35274c", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-de22304e", 
+            "Value": "CodeDeployDemo", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-de22304e", 
+            "Value": "JenkinsCodeDeploy-WSASG-17EY4RIAJZYDV", 
+            "Key": "aws:autoscaling:groupName"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-de22304e", 
+            "Value": "WSASG", 
+            "Key": "aws:cloudformation:logical-id"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-de22304e", 
+            "Value": "arn:aws:cloudformation:us-east-1:177623757656:stack/JenkinsCodeDeploy/4db82430-3d8f-11e6-828e-500c32cd4462", 
+            "Key": "aws:cloudformation:stack-id"
+        }, 
+        {
+            "ResourceType": "instance", 
+            "ResourceId": "i-de22304e", 
+            "Value": "JenkinsCodeDeploy", 
+            "Key": "aws:cloudformation:stack-name"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-04bae960", 
+            "Value": "jfrueh@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-04bae960", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-04bae960", 
+            "Value": "jasonf-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-04bae960", 
+            "Value": "jfrueh@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-04bae960", 
+            "Value": "Jira Config", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-04bae960", 
+            "Value": "corpit", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-1fa49e7b", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-1fa49e7b", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-1fa49e7b", 
+            "Value": "dbops-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-1fa49e7b", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-1fa49e7b", 
+            "Value": "dbops MySQL Infrastructure Orchestration", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-1fa49e7b", 
+            "Value": "Database Operations", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-3eeedf5a", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-3eeedf5a", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-3eeedf5a", 
+            "Value": "dbops-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-3eeedf5a", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-3eeedf5a", 
+            "Value": "dbops MySQL Infrastructure Orchestration", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-3eeedf5a", 
+            "Value": "Database Operations", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-43241327", 
+            "Value": "cldplt", 
+            "Key": "Billing"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-43241327", 
+            "Value": "ascherger@homeaway.com", 
+            "Key": "Contact"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-43241327", 
+            "Value": "ascherger-us-east-1c", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-45d4c321", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-45d4c321", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-45d4c321", 
+            "Value": "cparker-whaddup", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-45d4c321", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-45d4c321", 
+            "Value": "to learn about aws", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-45d4c321", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-526e6036", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-526e6036", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-526e6036", 
+            "Value": "Heartbeat_test", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-526e6036", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-526e6036", 
+            "Value": "to learn about aws", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-526e6036", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-64878500", 
+            "Value": "697148468905", 
+            "Key": "AWSServiceAccount"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-665f5102", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-665f5102", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-665f5102", 
+            "Value": "test-stayz-dts-deploy", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-665f5102", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-665f5102", 
+            "Value": "to learn about aws", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-665f5102", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-780a391c", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-780a391c", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-780a391c", 
+            "Value": "dbops-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-780a391c", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-780a391c", 
+            "Value": "dbops MySQL Infrastructure Orchestration", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-780a391c", 
+            "Value": "Database Operations", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-867476e2", 
+            "Value": "marsmith-sandbox-igw", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-a3abe0c7", 
+            "Value": "atlas-gateway", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-b0b5d1d4", 
+            "Value": "ha-sandbox-inet-gw", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-b282dcd6", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-b282dcd6", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-b282dcd6", 
+            "Value": "topochico", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-b282dcd6", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-b282dcd6", 
+            "Value": "to learn about aws", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-b282dcd6", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-c9755ead", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-c9755ead", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-c9755ead", 
+            "Value": "MySQL_TerraForm_OneClick_Deploy", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-c9755ead", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-c9755ead", 
+            "Value": "to learn about aws", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-c9755ead", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-d4b193b0", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-d4b193b0", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-d4b193b0", 
+            "Value": "mlucero-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-d4b193b0", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-d4b193b0", 
+            "Value": "to learn about aws", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-d4b193b0", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-e888d78c", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-e888d78c", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-e888d78c", 
+            "Value": "dbedw_releng", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-e888d78c", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-e888d78c", 
+            "Value": "to learn about aws", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-e888d78c", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-ea7a478e", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-ea7a478e", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-ea7a478e", 
+            "Value": "dbops-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-ea7a478e", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-ea7a478e", 
+            "Value": "dbops MySQL Infrastructure Orchestration", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-ea7a478e", 
+            "Value": "Database Operations", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-ebd0d58f", 
+            "Value": "bboles-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-ee2d288a", 
+            "Value": "bschneeman@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-ee2d288a", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-ee2d288a", 
+            "Value": "bschneeman-tensorflow", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-ee2d288a", 
+            "Value": "bschneeman@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-ee2d288a", 
+            "Value": "attempt to spin up a GPU instance with Tensorflow", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-ee2d288a", 
+            "Value": "Data Science", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "internet-gateway", 
+            "ResourceId": "igw-f19db195", 
+            "Value": "igw-mj", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpn-gateway", 
+            "ResourceId": "vgw-ade30dc4", 
+            "Value": "ha-sandbox-vgw", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpn-gateway", 
+            "ResourceId": "vgw-d4927cbd", 
+            "Value": "ha-tf-vpgw513", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-39b60442", 
+            "Value": "EphemeralDatabaseService-dev", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-39b60442", 
+            "Value": "rvarghese@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-39b60442", 
+            "Value": "AWSEBSecurityGroup", 
+            "Key": "aws:cloudformation:logical-id"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-39b60442", 
+            "Value": "arn:aws:cloudformation:us-east-1:177623757656:stack/awseb-e-mpnpkhnfh2-stack/48cced30-2669-11e6-80d7-503f23fb5536", 
+            "Key": "aws:cloudformation:stack-id"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-39b60442", 
+            "Value": "awseb-e-mpnpkhnfh2-stack", 
+            "Key": "aws:cloudformation:stack-name"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-39b60442", 
+            "Value": "e-mpnpkhnfh2", 
+            "Key": "elasticbeanstalk:environment-id"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-39b60442", 
+            "Value": "EphemeralDatabaseService-dev", 
+            "Key": "elasticbeanstalk:environment-name"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-46f9bb3d", 
+            "Value": "WSSG", 
+            "Key": "aws:cloudformation:logical-id"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-46f9bb3d", 
+            "Value": "arn:aws:cloudformation:us-east-1:177623757656:stack/JenkinsCodeDeploy/4db82430-3d8f-11e6-828e-500c32cd4462", 
+            "Key": "aws:cloudformation:stack-id"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-46f9bb3d", 
+            "Value": "JenkinsCodeDeploy", 
+            "Key": "aws:cloudformation:stack-name"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-6a20b011", 
+            "Value": "bz_security_group", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-6ce52516", 
+            "Value": "Amazon WorkSpaces", 
+            "Key": "Created by Amazon WorkSpaces"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-6cf9bb17", 
+            "Value": "JenkinsSecurityGroup", 
+            "Key": "aws:cloudformation:logical-id"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-6cf9bb17", 
+            "Value": "arn:aws:cloudformation:us-east-1:177623757656:stack/JenkinsCodeDeploy/4db82430-3d8f-11e6-828e-500c32cd4462", 
+            "Key": "aws:cloudformation:stack-id"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-6cf9bb17", 
+            "Value": "JenkinsCodeDeploy", 
+            "Key": "aws:cloudformation:stack-name"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-6df9bb16", 
+            "Value": "ELBSG", 
+            "Key": "aws:cloudformation:logical-id"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-6df9bb16", 
+            "Value": "arn:aws:cloudformation:us-east-1:177623757656:stack/JenkinsCodeDeploy/4db82430-3d8f-11e6-828e-500c32cd4462", 
+            "Key": "aws:cloudformation:stack-id"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-6df9bb16", 
+            "Value": "JenkinsCodeDeploy", 
+            "Key": "aws:cloudformation:stack-name"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-7740700c", 
+            "Value": "CorpWindows - Kaldrich", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-7d207f06", 
+            "Value": "mytrips-Api-env", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-7d207f06", 
+            "Value": "AWSEBLoadBalancerSecurityGroup", 
+            "Key": "aws:cloudformation:logical-id"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-7d207f06", 
+            "Value": "arn:aws:cloudformation:us-east-1:177623757656:stack/awseb-e-dkcm4dpnfq-stack/7156e910-42af-11e6-a0f4-500c524294d2", 
+            "Key": "aws:cloudformation:stack-id"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-7d207f06", 
+            "Value": "awseb-e-dkcm4dpnfq-stack", 
+            "Key": "aws:cloudformation:stack-name"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-7d207f06", 
+            "Value": "e-dkcm4dpnfq", 
+            "Key": "elasticbeanstalk:environment-id"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-7d207f06", 
+            "Value": "mytrips-Api-env", 
+            "Key": "elasticbeanstalk:environment-name"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-7e458c04", 
+            "Value": "AWSEBSecurityGroup", 
+            "Key": "aws:cloudformation:logical-id"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-7e458c04", 
+            "Value": "arn:aws:cloudformation:us-east-1:177623757656:stack/awseb-e-4cycykaawu-stack/86347fa0-62bc-11e6-b536-50d5cd24fac6", 
+            "Key": "aws:cloudformation:stack-id"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-7e458c04", 
+            "Value": "awseb-e-4cycykaawu-stack", 
+            "Key": "aws:cloudformation:stack-name"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-8ccc39f7", 
+            "Value": "wide open", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-b1e945ca", 
+            "Value": "EDSSecurityGroup", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-b1e945ca", 
+            "Value": "rvarghese@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-b7678bcc", 
+            "Value": "default", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-c74a83bd", 
+            "Value": "AWSEBSecurityGroup", 
+            "Key": "aws:cloudformation:logical-id"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-c74a83bd", 
+            "Value": "arn:aws:cloudformation:us-east-1:177623757656:stack/awseb-e-dwwrnpzxvi-stack/bb214e20-62ba-11e6-8c89-500c28680ac6", 
+            "Key": "aws:cloudformation:stack-id"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-c74a83bd", 
+            "Value": "awseb-e-dwwrnpzxvi-stack", 
+            "Key": "aws:cloudformation:stack-name"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-cddfdfb5", 
+            "Value": "Default-Environment", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-cddfdfb5", 
+            "Value": "AWSEBLoadBalancerSecurityGroup", 
+            "Key": "aws:cloudformation:logical-id"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-cddfdfb5", 
+            "Value": "arn:aws:cloudformation:us-east-1:177623757656:stack/awseb-e-jy8qe92va2-stack/67f84990-0501-11e6-8e80-500c286f3262", 
+            "Key": "aws:cloudformation:stack-id"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-cddfdfb5", 
+            "Value": "awseb-e-jy8qe92va2-stack", 
+            "Key": "aws:cloudformation:stack-name"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-cddfdfb5", 
+            "Value": "e-jy8qe92va2", 
+            "Key": "elasticbeanstalk:environment-id"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-cddfdfb5", 
+            "Value": "Default-Environment", 
+            "Key": "elasticbeanstalk:environment-name"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-dbe723a0", 
+            "Value": "rhosman-homeaway", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-fedfeb85", 
+            "Value": "mlucero-testhdp", 
+            "Key": "CloudbreakClusterName"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-fedfeb85", 
+            "Value": "ClusterNodeSecurityGroup", 
+            "Key": "aws:cloudformation:logical-id"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-fedfeb85", 
+            "Value": "arn:aws:cloudformation:us-east-1:177623757656:stack/mlucero-testhdp-11/346cfaf0-491f-11e6-8cc0-50a686e4bb4a", 
+            "Key": "aws:cloudformation:stack-id"
+        }, 
+        {
+            "ResourceType": "security-group", 
+            "ResourceId": "sg-fedfeb85", 
+            "Value": "mlucero-testhdp-11", 
+            "Key": "aws:cloudformation:stack-name"
+        }, 
+        {
+            "ResourceType": "dhcp-options", 
+            "ResourceId": "dopt-2ea55e4b", 
+            "Value": "default", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "dhcp-options", 
+            "ResourceId": "dopt-ab9421cf", 
+            "Value": "CorpDNS - kaldrich", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "volume", 
+            "ResourceId": "vol-4b3427c5", 
+            "Value": "jzenchenko_search_sort_ml", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-05f9cd62", 
+            "Value": "atlas-route-public", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-0838db6e", 
+            "Value": "cldplt", 
+            "Key": "Billing"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-0838db6e", 
+            "Value": "ascherger@homeaway.com", 
+            "Key": "Contact"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-0838db6e", 
+            "Value": "ascherger-private-us-east-1e", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-0938db6f", 
+            "Value": "cldplt", 
+            "Key": "Billing"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-0938db6f", 
+            "Value": "ascherger@homeaway.com", 
+            "Key": "Contact"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-0938db6f", 
+            "Value": "ascherger-private-us-east-1d", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-110fe477", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-110fe477", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-110fe477", 
+            "Value": "dbops-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-110fe477", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-110fe477", 
+            "Value": "dbops MySQL Infrastructure Orchestration", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-110fe477", 
+            "Value": "Database Operations", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-1638db70", 
+            "Value": "cldplt", 
+            "Key": "Billing"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-1638db70", 
+            "Value": "ascherger@homeaway.com", 
+            "Key": "Contact"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-1638db70", 
+            "Value": "ascherger-private-us-east-1c", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-205a9b46", 
+            "Value": "697148468905", 
+            "Key": "AWSServiceAccount"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-32fcfd55", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-32fcfd55", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-32fcfd55", 
+            "Value": "topochico", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-32fcfd55", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-32fcfd55", 
+            "Value": "to learn about aws", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-32fcfd55", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-341af652", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-341af652", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-341af652", 
+            "Value": "dbops-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-341af652", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-341af652", 
+            "Value": "dbops MySQL Infrastructure Orchestration", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-341af652", 
+            "Value": "Database Operations", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-451a0522", 
+            "Value": "default public", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-4d3a022a", 
+            "Value": "jfrueh@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-4d3a022a", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-4d3a022a", 
+            "Value": "jasonf-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-4d3a022a", 
+            "Value": "jfrueh@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-4d3a022a", 
+            "Value": "Jira Config", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-4d3a022a", 
+            "Value": "corpit", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-57425030", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-57425030", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-57425030", 
+            "Value": "mlucero-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-57425030", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-57425030", 
+            "Value": "to learn about aws", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-57425030", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-633bd805", 
+            "Value": "cldplt", 
+            "Key": "Billing"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-633bd805", 
+            "Value": "ascherger@homeaway.com", 
+            "Key": "Contact"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-633bd805", 
+            "Value": "ascherger-main", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-6409f502", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-6409f502", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-6409f502", 
+            "Value": "dbops-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-6409f502", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-6409f502", 
+            "Value": "dbops MySQL Infrastructure Orchestration", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-6409f502", 
+            "Value": "Database Operations", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-7c6ea21a", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-7c6ea21a", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-7c6ea21a", 
+            "Value": "dbedw_releng", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-7c6ea21a", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-7c6ea21a", 
+            "Value": "to learn about aws", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-7c6ea21a", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-92c738f4", 
+            "Value": "bschneeman@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-92c738f4", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-92c738f4", 
+            "Value": "bschneeman-tensorflow", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-92c738f4", 
+            "Value": "bschneeman@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-92c738f4", 
+            "Value": "attempt to spin up a GPU instance with Tensorflow", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-92c738f4", 
+            "Value": "Data Science", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-a78a45c1", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-a78a45c1", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-a78a45c1", 
+            "Value": "test-stayz-dts-deploy", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-a78a45c1", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-a78a45c1", 
+            "Value": "to learn about aws", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-a78a45c1", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-b58849d3", 
+            "Value": "marsmith-sandbox-outside", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-d1955ab7", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-d1955ab7", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-d1955ab7", 
+            "Value": "Heartbeat_test", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-d1955ab7", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-d1955ab7", 
+            "Value": "to learn about aws", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-d1955ab7", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-d9fdc9be", 
+            "Value": "atlas-route-private", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-df9f5eb9", 
+            "Value": "marsmith-sandbox-inside", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-e02cfc86", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-e02cfc86", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-e02cfc86", 
+            "Value": "cparker-whaddup", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-e02cfc86", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-e02cfc86", 
+            "Value": "to learn about aws", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-e02cfc86", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-e7f51c81", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-e7f51c81", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-e7f51c81", 
+            "Value": "dbops-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-e7f51c81", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-e7f51c81", 
+            "Value": "dbops MySQL Infrastructure Orchestration", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-e7f51c81", 
+            "Value": "Database Operations", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-e838dd8e", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-e838dd8e", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-e838dd8e", 
+            "Value": "MySQL_TerraForm_OneClick_Deploy", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-e838dd8e", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-e838dd8e", 
+            "Value": "to learn about aws", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "route-table", 
+            "ResourceId": "rtb-e838dd8e", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-03cdf15b", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-03cdf15b", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-03cdf15b", 
+            "Value": "public", 
+            "Key": "Function"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-03cdf15b", 
+            "Value": "dbops-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-03cdf15b", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-03cdf15b", 
+            "Value": "Database Operations", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-07717f3a", 
+            "Value": "lparrasubnet1", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-0a344c52", 
+            "Value": "EDSSubnet1", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-0e5c6b56", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-0e5c6b56", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-0e5c6b56", 
+            "Value": "public", 
+            "Key": "Function"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-0e5c6b56", 
+            "Value": "MySQL_TerraForm_OneClick_Deploy", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-0e5c6b56", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-0e5c6b56", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-11715449", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-11715449", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-11715449", 
+            "Value": "public", 
+            "Key": "Function"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-11715449", 
+            "Value": "topochico", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-11715449", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-11715449", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-15311a4d", 
+            "Value": "default public", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-25516f7d", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-25516f7d", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-25516f7d", 
+            "Value": "public", 
+            "Key": "Function"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-25516f7d", 
+            "Value": "dbops-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-25516f7d", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-25516f7d", 
+            "Value": "Database Operations", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-2f227477", 
+            "Value": "atlas-private-1", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-315fc70c", 
+            "Value": "default", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-3568786d", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-3568786d", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-3568786d", 
+            "Value": "public", 
+            "Key": "Function"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-3568786d", 
+            "Value": "cparker-whaddup", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-3568786d", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-3568786d", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-370b0d6f", 
+            "Value": "bboles-sandbox-subnet", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-3b1a7963", 
+            "Value": "303", 
+            "Key": "CostCenter"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-3b1a7963", 
+            "Value": "Sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-3b1a7963", 
+            "Value": "Sandbox Priv Sub A", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-3b1a7963", 
+            "Value": "hosting@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-3b1a7963", 
+            "Value": "Base Infrastructure", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-3db2a065", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-3db2a065", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-3db2a065", 
+            "Value": "public", 
+            "Key": "Function"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-3db2a065", 
+            "Value": "myan-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-3db2a065", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-3db2a065", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-44cfc31c", 
+            "Value": "marsmith-sandbox-outside", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-46164c1e", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-46164c1e", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-46164c1e", 
+            "Value": "public", 
+            "Key": "Function"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-46164c1e", 
+            "Value": "dbedw_releng", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-46164c1e", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-46164c1e", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-512f2709", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-512f2709", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-512f2709", 
+            "Value": "public", 
+            "Key": "Function"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-512f2709", 
+            "Value": "test-stayz-dts-deploy", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-512f2709", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-512f2709", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-5464547e", 
+            "Value": "cldplt", 
+            "Key": "Billing"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-5464547e", 
+            "Value": "ascherger@homeaway.com", 
+            "Key": "Contact"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-5464547e", 
+            "Value": "ascherger-public-us-east-1c", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-5664547c", 
+            "Value": "cldplt", 
+            "Key": "Billing"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-5664547c", 
+            "Value": "ascherger@homeaway.com", 
+            "Key": "Contact"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-5664547c", 
+            "Value": "ascherger-private_aws-us-east-1c", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-566c246b", 
+            "Value": "jf-sandbox-sub1", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-567a7c0e", 
+            "Value": "bschneeman@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-567a7c0e", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-567a7c0e", 
+            "Value": "public", 
+            "Key": "Function"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-567a7c0e", 
+            "Value": "bschneeman-tensorflow", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-567a7c0e", 
+            "Value": "bschneeman@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-567a7c0e", 
+            "Value": "Data Science", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-5764547d", 
+            "Value": "cldplt", 
+            "Key": "Billing"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-5764547d", 
+            "Value": "ascherger@homeaway.com", 
+            "Key": "Contact"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-5764547d", 
+            "Value": "ascherger-private-us-east-1c", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-61cfc339", 
+            "Value": "marsmith-sandbox-inside", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-7a0a5422", 
+            "Value": "jfrueh@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-7a0a5422", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-7a0a5422", 
+            "Value": "private", 
+            "Key": "Function"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-7a0a5422", 
+            "Value": "jasonf-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-7a0a5422", 
+            "Value": "jfrueh@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-7a0a5422", 
+            "Value": "corpit", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-7b0a5423", 
+            "Value": "jfrueh@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-7b0a5423", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-7b0a5423", 
+            "Value": "public", 
+            "Key": "Function"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-7b0a5423", 
+            "Value": "jasonf-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-7b0a5423", 
+            "Value": "jfrueh@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-7b0a5423", 
+            "Value": "corpit", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-7b85b723", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-7b85b723", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-7b85b723", 
+            "Value": "public", 
+            "Key": "Function"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-7b85b723", 
+            "Value": "dbops-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-7b85b723", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-7b85b723", 
+            "Value": "Database Operations", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-7c373856", 
+            "Value": "697148468905", 
+            "Key": "AWSServiceAccount"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-800642f6", 
+            "Value": "jf-sandbox-sub2", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-8c557cd4", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-8c557cd4", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-8c557cd4", 
+            "Value": "public", 
+            "Key": "Function"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-8c557cd4", 
+            "Value": "mlucero-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-8c557cd4", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-8c557cd4", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-9a38cad3", 
+            "Value": "Private subnet", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-9d38cad4", 
+            "Value": "Public subnet", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-aa451880", 
+            "Value": "jfrueh@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-aa451880", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-aa451880", 
+            "Value": "private", 
+            "Key": "Function"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-aa451880", 
+            "Value": "jasonf-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-aa451880", 
+            "Value": "jfrueh@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-aa451880", 
+            "Value": "corpit", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-ae79e384", 
+            "Value": "303", 
+            "Key": "CostCenter"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-ae79e384", 
+            "Value": "Sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-ae79e384", 
+            "Value": "Sandbox Priv Sub C", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-ae79e384", 
+            "Value": "hosting@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-ae79e384", 
+            "Value": "Base Infrastructure", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-aecec9f6", 
+            "Value": "coreOS-Subnet", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-bb797ccd", 
+            "Value": "atlas-private-3", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-c8730ee2", 
+            "Value": "EDSSubnet2", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-d2444b8a", 
+            "Value": "697148468905", 
+            "Key": "AWSServiceAccount"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-da194cf0", 
+            "Value": "atlas-public-2", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-dc3538e1", 
+            "Value": "cldplt", 
+            "Key": "Billing"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-dc3538e1", 
+            "Value": "ascherger@homeaway.com", 
+            "Key": "Contact"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-dc3538e1", 
+            "Value": "ascherger-private-us-east-1e", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-dd3538e0", 
+            "Value": "cldplt", 
+            "Key": "Billing"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-dd3538e0", 
+            "Value": "ascherger@homeaway.com", 
+            "Key": "Contact"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-dd3538e0", 
+            "Value": "ascherger-private_aws-us-east-1e", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-de3b3386", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-de3b3386", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-de3b3386", 
+            "Value": "public", 
+            "Key": "Function"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-de3b3386", 
+            "Value": "Heartbeat_test", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-de3b3386", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-de3b3386", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-df3538e2", 
+            "Value": "cldplt", 
+            "Key": "Billing"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-df3538e2", 
+            "Value": "ascherger@homeaway.com", 
+            "Key": "Contact"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-df3538e2", 
+            "Value": "ascherger-public-us-east-1e", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-e9e985b1", 
+            "Value": "303", 
+            "Key": "CostCenter"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-e9e985b1", 
+            "Value": "Sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-e9e985b1", 
+            "Value": "Sandbox IPS sub A", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-e9e985b1", 
+            "Value": "hosting@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-e9e985b1", 
+            "Value": "Base Infrastructure", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-eee8efc4", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-eee8efc4", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-eee8efc4", 
+            "Value": "public", 
+            "Key": "Function"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-eee8efc4", 
+            "Value": "dbops-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-eee8efc4", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-eee8efc4", 
+            "Value": "Database Operations", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-f24eafbb", 
+            "Value": "cldplt", 
+            "Key": "Billing"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-f24eafbb", 
+            "Value": "ascherger@homeaway.com", 
+            "Key": "Contact"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-f24eafbb", 
+            "Value": "ascherger-private-us-east-1d", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-f44eafbd", 
+            "Value": "cldplt", 
+            "Key": "Billing"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-f44eafbd", 
+            "Value": "ascherger@homeaway.com", 
+            "Key": "Contact"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-f44eafbd", 
+            "Value": "ascherger-private_aws-us-east-1d", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-f54eafbc", 
+            "Value": "cldplt", 
+            "Key": "Billing"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-f54eafbc", 
+            "Value": "ascherger@homeaway.com", 
+            "Key": "Contact"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-f54eafbc", 
+            "Value": "ascherger-public-us-east-1d", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-fb4c608d", 
+            "Value": "EDSSubnet3", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "subnet", 
+            "ResourceId": "subnet-fd646ba5", 
+            "Value": "test-amccook-subnet", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "snapshot", 
+            "ResourceId": "snap-0617ade3", 
+            "Value": "atlas-run-stage", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "snapshot", 
+            "ResourceId": "snap-e77efb02", 
+            "Value": "sbeaudreau_data_snapshot", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "image", 
+            "ResourceId": "ami-234eb04e", 
+            "Value": "ami-724fb11f", 
+            "Key": "Child"
+        }, 
+        {
+            "ResourceType": "image", 
+            "ResourceId": "ami-234eb04e", 
+            "Value": "ami-be1de4d3", 
+            "Key": "Father"
+        }, 
+        {
+            "ResourceType": "image", 
+            "ResourceId": "ami-672ec00a", 
+            "Value": "win2012r2", 
+            "Key": "AMI Name"
+        }, 
+        {
+            "ResourceType": "image", 
+            "ResourceId": "ami-672ec00a", 
+            "Value": "original import", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "image", 
+            "ResourceId": "ami-6cc40601", 
+            "Value": "chwilliams", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "image", 
+            "ResourceId": "ami-74fd1519", 
+            "Value": "update", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "image", 
+            "ResourceId": "ami-85b14de8", 
+            "Value": "rvarghese@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "image", 
+            "ResourceId": "ami-be1de4d3", 
+            "Value": "ami-234eb04e", 
+            "Key": "Child"
+        }, 
+        {
+            "ResourceType": "image", 
+            "ResourceId": "ami-c69d6aab", 
+            "Value": "Adam image for centos-6.8-ci-build-*", 
+            "Key": "ImageGeneology"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-0f5df268", 
+            "Value": "atlas-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-128f3375", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-128f3375", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-128f3375", 
+            "Value": "dbedw_releng", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-128f3375", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-128f3375", 
+            "Value": "to learn about aws", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-128f3375", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-13e67474", 
+            "Value": "cldplt", 
+            "Key": "Billing"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-13e67474", 
+            "Value": "ascherger@homeaway.com", 
+            "Key": "Contact"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-13e67474", 
+            "Value": "ascherger", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-14a62d73", 
+            "Value": "techradardb", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-18f6ee7c", 
+            "Value": "jf-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-3b2bdc5c", 
+            "Value": "ha-sandbox-vpc", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-4988ea2e", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-4988ea2e", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-4988ea2e", 
+            "Value": "dbops-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-4988ea2e", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-4988ea2e", 
+            "Value": "dbops MySQL Infrastructure Orchestration", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-4988ea2e", 
+            "Value": "Database Operations", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-5276c735", 
+            "Value": "jfrueh@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-5276c735", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-5276c735", 
+            "Value": "jasonf-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-5276c735", 
+            "Value": "jfrueh@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-5276c735", 
+            "Value": "Jira Config", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-5276c735", 
+            "Value": "corpit", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-57c85330", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-57c85330", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-57c85330", 
+            "Value": "dbops-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-57c85330", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-57c85330", 
+            "Value": "dbops MySQL Infrastructure Orchestration", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-57c85330", 
+            "Value": "Database Operations", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-697a170e", 
+            "Value": "bschneeman@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-697a170e", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-697a170e", 
+            "Value": "bschneeman-tensorflow", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-697a170e", 
+            "Value": "bschneeman@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-697a170e", 
+            "Value": "attempt to spin up a GPU instance with Tensorflow", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-697a170e", 
+            "Value": "Data Science", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-6e582c09", 
+            "Value": "test-amccook-vpc", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-7686f611", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-7686f611", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-7686f611", 
+            "Value": "Heartbeat_test", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-7686f611", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-7686f611", 
+            "Value": "to learn about aws", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-7686f611", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-7e583a19", 
+            "Value": "CoreOS-VPC", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-873af1e0", 
+            "Value": "EDSVPC", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-873af1e0", 
+            "Value": "rvarghese@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-90fa63f7", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-90fa63f7", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-90fa63f7", 
+            "Value": "dbops-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-90fa63f7", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-90fa63f7", 
+            "Value": "dbops MySQL Infrastructure Orchestration", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-90fa63f7", 
+            "Value": "Database Operations", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-927400f5", 
+            "Value": "697148468905", 
+            "Key": "AWSServiceAccount"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-927400f5", 
+            "Value": "workspaces-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-95472af2", 
+            "Value": "bboles-sandbox-vpc", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-9c3ea2fb", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-9c3ea2fb", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-9c3ea2fb", 
+            "Value": "dbops-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-9c3ea2fb", 
+            "Value": "dbops@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-9c3ea2fb", 
+            "Value": "dbops MySQL Infrastructure Orchestration", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-9c3ea2fb", 
+            "Value": "Database Operations", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-9d42fdfa", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-9d42fdfa", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-9d42fdfa", 
+            "Value": "topochico", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-9d42fdfa", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-9d42fdfa", 
+            "Value": "to learn about aws", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-9d42fdfa", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-a6c95ec1", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-a6c95ec1", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-a6c95ec1", 
+            "Value": "MySQL_TerraForm_OneClick_Deploy", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-a6c95ec1", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-a6c95ec1", 
+            "Value": "to learn about aws", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-a6c95ec1", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-aecc44c9", 
+            "Value": "mj-sandbox-vpc", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-af7ee6c8", 
+            "Value": "lparra-test", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-d67419b1", 
+            "Value": "coreOS-vpc", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-e5bbce82", 
+            "Value": "marsmith-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-e5ca8d82", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-e5ca8d82", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-e5ca8d82", 
+            "Value": "myan-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-e5ca8d82", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-e5ca8d82", 
+            "Value": "to learn about aws", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-e5ca8d82", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-e894e48f", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-e894e48f", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-e894e48f", 
+            "Value": "test-stayz-dts-deploy", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-e894e48f", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-e894e48f", 
+            "Value": "to learn about aws", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-e894e48f", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-ea8d028d", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-ea8d028d", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-ea8d028d", 
+            "Value": "mlucero-sandbox", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-ea8d028d", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-ea8d028d", 
+            "Value": "to learn about aws", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-ea8d028d", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-eb0bd58f", 
+            "Value": "default-vpc (never delete)", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-fbb2c89c", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Creator"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-fbb2c89c", 
+            "Value": "sandbox", 
+            "Key": "Environment"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-fbb2c89c", 
+            "Value": "cparker-whaddup", 
+            "Key": "Name"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-fbb2c89c", 
+            "Value": "platformengineering@homeaway.com", 
+            "Key": "Owner"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-fbb2c89c", 
+            "Value": "to learn about aws", 
+            "Key": "Purpose"
+        }, 
+        {
+            "ResourceType": "vpc", 
+            "ResourceId": "vpc-fbb2c89c", 
+            "Value": "platform engineering", 
+            "Key": "Team"
+        }
+    ]
+}

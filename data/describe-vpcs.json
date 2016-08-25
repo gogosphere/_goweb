@@ -1,0 +1,738 @@
+{
+    "Vpcs": [
+        {
+            "VpcId": "vpc-ea8d028d", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Owner"
+                }, 
+                {
+                    "Value": "to learn about aws", 
+                    "Key": "Purpose"
+                }, 
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }, 
+                {
+                    "Value": "platform engineering", 
+                    "Key": "Team"
+                }, 
+                {
+                    "Value": "mlucero-sandbox", 
+                    "Key": "Name"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "10.27.0.0/28", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-5276c735", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }, 
+                {
+                    "Value": "corpit", 
+                    "Key": "Team"
+                }, 
+                {
+                    "Value": "Jira Config", 
+                    "Key": "Purpose"
+                }, 
+                {
+                    "Value": "jasonf-sandbox", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "jfrueh@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "jfrueh@homeaway.com", 
+                    "Key": "Owner"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "10.0.0.0/16", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-873af1e0", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "EDSVPC", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "rvarghese@homeaway.com", 
+                    "Key": "Owner"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "10.0.0.0/16", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-0f5df268", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "atlas-sandbox", 
+                    "Key": "Name"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "10.0.0.0/16", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-128f3375", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "dbedw_releng", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "platform engineering", 
+                    "Key": "Team"
+                }, 
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Owner"
+                }, 
+                {
+                    "Value": "to learn about aws", 
+                    "Key": "Purpose"
+                }, 
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "10.27.0.0/28", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-4988ea2e", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "dbops@homeaway.com", 
+                    "Key": "Owner"
+                }, 
+                {
+                    "Value": "dbops MySQL Infrastructure Orchestration", 
+                    "Key": "Purpose"
+                }, 
+                {
+                    "Value": "dbops-sandbox", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }, 
+                {
+                    "Value": "Database Operations", 
+                    "Key": "Team"
+                }, 
+                {
+                    "Value": "dbops@homeaway.com", 
+                    "Key": "Creator"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "10.27.0.0/28", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-18f6ee7c", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "jf-sandbox", 
+                    "Key": "Name"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "10.2.0.0/26", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-fbb2c89c", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "platform engineering", 
+                    "Key": "Team"
+                }, 
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Owner"
+                }, 
+                {
+                    "Value": "to learn about aws", 
+                    "Key": "Purpose"
+                }, 
+                {
+                    "Value": "cparker-whaddup", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "10.27.0.0/28", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-e4ef8c83", 
+            "InstanceTenancy": "default", 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "10.0.0.0/16", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-e5ca8d82", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "platform engineering", 
+                    "Key": "Team"
+                }, 
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Owner"
+                }, 
+                {
+                    "Value": "to learn about aws", 
+                    "Key": "Purpose"
+                }, 
+                {
+                    "Value": "myan-sandbox", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "10.27.0.0/28", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-14a62d73", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "techradardb", 
+                    "Key": "Name"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "172.30.0.0/16", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-e5bbce82", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "marsmith-sandbox", 
+                    "Key": "Name"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "192.168.0.0/16", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-aecc44c9", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "mj-sandbox-vpc", 
+                    "Key": "Name"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "10.0.0.0/16", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-a6c95ec1", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Owner"
+                }, 
+                {
+                    "Value": "to learn about aws", 
+                    "Key": "Purpose"
+                }, 
+                {
+                    "Value": "platform engineering", 
+                    "Key": "Team"
+                }, 
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }, 
+                {
+                    "Value": "MySQL_TerraForm_OneClick_Deploy", 
+                    "Key": "Name"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "10.27.0.0/28", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-9c3ea2fb", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }, 
+                {
+                    "Value": "dbops MySQL Infrastructure Orchestration", 
+                    "Key": "Purpose"
+                }, 
+                {
+                    "Value": "dbops@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "dbops-sandbox", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "dbops@homeaway.com", 
+                    "Key": "Owner"
+                }, 
+                {
+                    "Value": "Database Operations", 
+                    "Key": "Team"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "10.27.0.0/28", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-eb0bd58f", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "default-vpc (never delete)", 
+                    "Key": "Name"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "172.31.0.0/16", 
+            "IsDefault": true
+        }, 
+        {
+            "VpcId": "vpc-6e582c09", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "test-amccook-vpc", 
+                    "Key": "Name"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "10.3.0.0/16", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-0b4e266c", 
+            "InstanceTenancy": "default", 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "10.0.0.0/16", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-697a170e", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }, 
+                {
+                    "Value": "Data Science", 
+                    "Key": "Team"
+                }, 
+                {
+                    "Value": "bschneeman-tensorflow", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "attempt to spin up a GPU instance with Tensorflow", 
+                    "Key": "Purpose"
+                }, 
+                {
+                    "Value": "bschneeman@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "bschneeman@homeaway.com", 
+                    "Key": "Owner"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "10.27.0.0/28", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-dc6a08bb", 
+            "InstanceTenancy": "default", 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "172.30.0.0/16", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-57c85330", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "dbops-sandbox", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }, 
+                {
+                    "Value": "dbops@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "dbops@homeaway.com", 
+                    "Key": "Owner"
+                }, 
+                {
+                    "Value": "Database Operations", 
+                    "Key": "Team"
+                }, 
+                {
+                    "Value": "dbops MySQL Infrastructure Orchestration", 
+                    "Key": "Purpose"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "10.27.0.0/28", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-e894e48f", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "to learn about aws", 
+                    "Key": "Purpose"
+                }, 
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Owner"
+                }, 
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }, 
+                {
+                    "Value": "test-stayz-dts-deploy", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "platform engineering", 
+                    "Key": "Team"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "10.27.0.0/28", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-927400f5", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "workspaces-sandbox", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "697148468905", 
+                    "Key": "AWSServiceAccount"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "172.16.0.0/16", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-90fa63f7", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "dbops MySQL Infrastructure Orchestration", 
+                    "Key": "Purpose"
+                }, 
+                {
+                    "Value": "dbops@homeaway.com", 
+                    "Key": "Owner"
+                }, 
+                {
+                    "Value": "dbops@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }, 
+                {
+                    "Value": "dbops-sandbox", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "Database Operations", 
+                    "Key": "Team"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "10.27.0.0/28", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-3b2bdc5c", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "ha-sandbox-vpc", 
+                    "Key": "Name"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "10.9.0.0/18", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-13e67474", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "ascherger", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "ascherger@homeaway.com", 
+                    "Key": "Contact"
+                }, 
+                {
+                    "Value": "cldplt", 
+                    "Key": "Billing"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "10.0.0.0/16", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-7686f611", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }, 
+                {
+                    "Value": "Heartbeat_test", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "to learn about aws", 
+                    "Key": "Purpose"
+                }, 
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Owner"
+                }, 
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "platform engineering", 
+                    "Key": "Team"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "10.27.0.0/28", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-7e583a19", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "CoreOS-VPC", 
+                    "Key": "Name"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "10.0.0.0/16", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-95472af2", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "bboles-sandbox-vpc", 
+                    "Key": "Name"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "192.168.1.0/24", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-d67419b1", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "coreOS-vpc", 
+                    "Key": "Name"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "172.31.0.0/16", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-af7ee6c8", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "lparra-test", 
+                    "Key": "Name"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "10.130.210.0/24", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-e1157786", 
+            "InstanceTenancy": "default", 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "172.30.0.0/16", 
+            "IsDefault": false
+        }, 
+        {
+            "VpcId": "vpc-9d42fdfa", 
+            "InstanceTenancy": "default", 
+            "Tags": [
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "topochico", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "platform engineering", 
+                    "Key": "Team"
+                }, 
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Owner"
+                }, 
+                {
+                    "Value": "to learn about aws", 
+                    "Key": "Purpose"
+                }, 
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }
+            ], 
+            "State": "available", 
+            "DhcpOptionsId": "dopt-2ea55e4b", 
+            "CidrBlock": "10.27.0.0/28", 
+            "IsDefault": false
+        }
+    ]
+}

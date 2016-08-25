@@ -1,0 +1,1342 @@
+{
+    "Subnets": [
+        {
+            "VpcId": "vpc-e1157786", 
+            "CidrBlock": "172.30.1.0/24", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1c", 
+            "SubnetId": "subnet-b70a0d9d", 
+            "AvailableIpAddressCount": 251
+        }, 
+        {
+            "VpcId": "vpc-13e67474", 
+            "Tags": [
+                {
+                    "Value": "ascherger-private_aws-us-east-1e", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "cldplt", 
+                    "Key": "Billing"
+                }, 
+                {
+                    "Value": "ascherger@homeaway.com", 
+                    "Key": "Contact"
+                }
+            ], 
+            "CidrBlock": "10.0.128.0/20", 
+            "MapPublicIpOnLaunch": false, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1e", 
+            "SubnetId": "subnet-dd3538e0", 
+            "AvailableIpAddressCount": 4091
+        }, 
+        {
+            "VpcId": "vpc-3b2bdc5c", 
+            "Tags": [
+                {
+                    "Value": "hosting@homeaway.com", 
+                    "Key": "Owner"
+                }, 
+                {
+                    "Value": "303", 
+                    "Key": "CostCenter"
+                }, 
+                {
+                    "Value": "Sandbox", 
+                    "Key": "Environment"
+                }, 
+                {
+                    "Value": "Base Infrastructure", 
+                    "Key": "Purpose"
+                }, 
+                {
+                    "Value": "Sandbox IPS sub A", 
+                    "Key": "Name"
+                }
+            ], 
+            "CidrBlock": "10.9.0.0/23", 
+            "MapPublicIpOnLaunch": false, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-e9e985b1", 
+            "AvailableIpAddressCount": 502
+        }, 
+        {
+            "VpcId": "vpc-873af1e0", 
+            "Tags": [
+                {
+                    "Value": "EDSSubnet2", 
+                    "Key": "Name"
+                }
+            ], 
+            "CidrBlock": "10.0.16.0/20", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1c", 
+            "SubnetId": "subnet-c8730ee2", 
+            "AvailableIpAddressCount": 4091
+        }, 
+        {
+            "VpcId": "vpc-927400f5", 
+            "Tags": [
+                {
+                    "Value": "697148468905", 
+                    "Key": "AWSServiceAccount"
+                }
+            ], 
+            "CidrBlock": "172.16.1.0/24", 
+            "MapPublicIpOnLaunch": false, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-d2444b8a", 
+            "AvailableIpAddressCount": 250
+        }, 
+        {
+            "VpcId": "vpc-95472af2", 
+            "Tags": [
+                {
+                    "Value": "bboles-sandbox-subnet", 
+                    "Key": "Name"
+                }
+            ], 
+            "CidrBlock": "192.168.1.0/24", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-370b0d6f", 
+            "AvailableIpAddressCount": 251
+        }, 
+        {
+            "VpcId": "vpc-90fa63f7", 
+            "Tags": [
+                {
+                    "Value": "dbops@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "public", 
+                    "Key": "Function"
+                }, 
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }, 
+                {
+                    "Value": "dbops-sandbox", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "Database Operations", 
+                    "Key": "Team"
+                }, 
+                {
+                    "Value": "dbops@homeaway.com", 
+                    "Key": "Owner"
+                }
+            ], 
+            "CidrBlock": "10.27.0.0/28", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-03cdf15b", 
+            "AvailableIpAddressCount": 10
+        }, 
+        {
+            "VpcId": "vpc-13e67474", 
+            "Tags": [
+                {
+                    "Value": "cldplt", 
+                    "Key": "Billing"
+                }, 
+                {
+                    "Value": "ascherger-public-us-east-1c", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "ascherger@homeaway.com", 
+                    "Key": "Contact"
+                }
+            ], 
+            "CidrBlock": "10.0.0.0/20", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1c", 
+            "SubnetId": "subnet-5464547e", 
+            "AvailableIpAddressCount": 4090
+        }, 
+        {
+            "VpcId": "vpc-9d42fdfa", 
+            "Tags": [
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Owner"
+                }, 
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }, 
+                {
+                    "Value": "topochico", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "public", 
+                    "Key": "Function"
+                }, 
+                {
+                    "Value": "platform engineering", 
+                    "Key": "Team"
+                }
+            ], 
+            "CidrBlock": "10.27.0.0/28", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-11715449", 
+            "AvailableIpAddressCount": 11
+        }, 
+        {
+            "VpcId": "vpc-e1157786", 
+            "CidrBlock": "172.30.3.0/24", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1e", 
+            "SubnetId": "subnet-5e898363", 
+            "AvailableIpAddressCount": 251
+        }, 
+        {
+            "VpcId": "vpc-14a62d73", 
+            "CidrBlock": "172.30.0.0/24", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-47052f1f", 
+            "AvailableIpAddressCount": 251
+        }, 
+        {
+            "VpcId": "vpc-eb0bd58f", 
+            "Tags": [
+                {
+                    "Value": "default", 
+                    "Key": "Name"
+                }
+            ], 
+            "CidrBlock": "172.31.0.0/24", 
+            "MapPublicIpOnLaunch": false, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1e", 
+            "SubnetId": "subnet-315fc70c", 
+            "AvailableIpAddressCount": 240
+        }, 
+        {
+            "VpcId": "vpc-13e67474", 
+            "Tags": [
+                {
+                    "Value": "ascherger-private-us-east-1c", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "ascherger@homeaway.com", 
+                    "Key": "Contact"
+                }, 
+                {
+                    "Value": "cldplt", 
+                    "Key": "Billing"
+                }
+            ], 
+            "CidrBlock": "10.0.48.0/20", 
+            "MapPublicIpOnLaunch": false, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1c", 
+            "SubnetId": "subnet-5764547d", 
+            "AvailableIpAddressCount": 4091
+        }, 
+        {
+            "VpcId": "vpc-0f5df268", 
+            "Tags": [
+                {
+                    "Value": "atlas-private-3", 
+                    "Key": "Name"
+                }
+            ], 
+            "CidrBlock": "10.0.3.0/24", 
+            "MapPublicIpOnLaunch": false, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1d", 
+            "SubnetId": "subnet-bb797ccd", 
+            "AvailableIpAddressCount": 247
+        }, 
+        {
+            "VpcId": "vpc-e4ef8c83", 
+            "CidrBlock": "10.0.1.0/24", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1d", 
+            "SubnetId": "subnet-e4b542ad", 
+            "AvailableIpAddressCount": 250
+        }, 
+        {
+            "VpcId": "vpc-5276c735", 
+            "Tags": [
+                {
+                    "Value": "private", 
+                    "Key": "Function"
+                }, 
+                {
+                    "Value": "jasonf-sandbox", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "jfrueh@homeaway.com", 
+                    "Key": "Owner"
+                }, 
+                {
+                    "Value": "jfrueh@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }, 
+                {
+                    "Value": "corpit", 
+                    "Key": "Team"
+                }
+            ], 
+            "CidrBlock": "10.0.2.0/24", 
+            "MapPublicIpOnLaunch": false, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-7a0a5422", 
+            "AvailableIpAddressCount": 251
+        }, 
+        {
+            "VpcId": "vpc-927400f5", 
+            "Tags": [
+                {
+                    "Value": "697148468905", 
+                    "Key": "AWSServiceAccount"
+                }
+            ], 
+            "CidrBlock": "172.16.0.0/24", 
+            "MapPublicIpOnLaunch": false, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1c", 
+            "SubnetId": "subnet-7c373856", 
+            "AvailableIpAddressCount": 249
+        }, 
+        {
+            "VpcId": "vpc-e5bbce82", 
+            "Tags": [
+                {
+                    "Value": "marsmith-sandbox-inside", 
+                    "Key": "Name"
+                }
+            ], 
+            "CidrBlock": "192.168.2.0/24", 
+            "MapPublicIpOnLaunch": false, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-61cfc339", 
+            "AvailableIpAddressCount": 251
+        }, 
+        {
+            "VpcId": "vpc-14a62d73", 
+            "CidrBlock": "172.30.2.0/24", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1d", 
+            "SubnetId": "subnet-d7e3fba1", 
+            "AvailableIpAddressCount": 251
+        }, 
+        {
+            "VpcId": "vpc-af7ee6c8", 
+            "Tags": [
+                {
+                    "Value": "lparrasubnet1", 
+                    "Key": "Name"
+                }
+            ], 
+            "CidrBlock": "10.130.210.0/24", 
+            "MapPublicIpOnLaunch": false, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1e", 
+            "SubnetId": "subnet-07717f3a", 
+            "AvailableIpAddressCount": 251
+        }, 
+        {
+            "VpcId": "vpc-e894e48f", 
+            "Tags": [
+                {
+                    "Value": "test-stayz-dts-deploy", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "platform engineering", 
+                    "Key": "Team"
+                }, 
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "public", 
+                    "Key": "Function"
+                }, 
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Owner"
+                }, 
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }
+            ], 
+            "CidrBlock": "10.27.0.0/28", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-512f2709", 
+            "AvailableIpAddressCount": 10
+        }, 
+        {
+            "VpcId": "vpc-18f6ee7c", 
+            "Tags": [
+                {
+                    "Value": "jf-sandbox-sub2", 
+                    "Key": "Name"
+                }
+            ], 
+            "CidrBlock": "10.2.0.16/28", 
+            "MapPublicIpOnLaunch": false, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1d", 
+            "SubnetId": "subnet-800642f6", 
+            "AvailableIpAddressCount": 10
+        }, 
+        {
+            "VpcId": "vpc-3b2bdc5c", 
+            "Tags": [
+                {
+                    "Value": "hosting@homeaway.com", 
+                    "Key": "Owner"
+                }, 
+                {
+                    "Value": "303", 
+                    "Key": "CostCenter"
+                }, 
+                {
+                    "Value": "Sandbox", 
+                    "Key": "Environment"
+                }, 
+                {
+                    "Value": "Sandbox Priv Sub C", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "Base Infrastructure", 
+                    "Key": "Purpose"
+                }
+            ], 
+            "CidrBlock": "10.9.8.0/23", 
+            "MapPublicIpOnLaunch": false, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1c", 
+            "SubnetId": "subnet-ae79e384", 
+            "AvailableIpAddressCount": 505
+        }, 
+        {
+            "VpcId": "vpc-873af1e0", 
+            "Tags": [
+                {
+                    "Value": "EDSSubnet1", 
+                    "Key": "Name"
+                }
+            ], 
+            "CidrBlock": "10.0.0.0/20", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-0a344c52", 
+            "AvailableIpAddressCount": 4085
+        }, 
+        {
+            "VpcId": "vpc-dc6a08bb", 
+            "CidrBlock": "172.30.0.0/24", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-7522252d", 
+            "AvailableIpAddressCount": 251
+        }, 
+        {
+            "VpcId": "vpc-dc6a08bb", 
+            "CidrBlock": "172.30.1.0/24", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1c", 
+            "SubnetId": "subnet-c31d1ae9", 
+            "AvailableIpAddressCount": 250
+        }, 
+        {
+            "VpcId": "vpc-128f3375", 
+            "Tags": [
+                {
+                    "Value": "platform engineering", 
+                    "Key": "Team"
+                }, 
+                {
+                    "Value": "dbedw_releng", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }, 
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "public", 
+                    "Key": "Function"
+                }, 
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Owner"
+                }
+            ], 
+            "CidrBlock": "10.27.0.0/28", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-46164c1e", 
+            "AvailableIpAddressCount": 5
+        }, 
+        {
+            "VpcId": "vpc-14a62d73", 
+            "CidrBlock": "172.30.3.0/24", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1e", 
+            "SubnetId": "subnet-83d8d9be", 
+            "AvailableIpAddressCount": 250
+        }, 
+        {
+            "VpcId": "vpc-4988ea2e", 
+            "Tags": [
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }, 
+                {
+                    "Value": "dbops@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "Database Operations", 
+                    "Key": "Team"
+                }, 
+                {
+                    "Value": "dbops-sandbox", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "public", 
+                    "Key": "Function"
+                }, 
+                {
+                    "Value": "dbops@homeaway.com", 
+                    "Key": "Owner"
+                }
+            ], 
+            "CidrBlock": "10.27.0.0/28", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1c", 
+            "SubnetId": "subnet-eee8efc4", 
+            "AvailableIpAddressCount": 11
+        }, 
+        {
+            "VpcId": "vpc-3b2bdc5c", 
+            "Tags": [
+                {
+                    "Value": "Base Infrastructure", 
+                    "Key": "Purpose"
+                }, 
+                {
+                    "Value": "303", 
+                    "Key": "CostCenter"
+                }, 
+                {
+                    "Value": "Sandbox", 
+                    "Key": "Environment"
+                }, 
+                {
+                    "Value": "Sandbox Priv Sub A", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "hosting@homeaway.com", 
+                    "Key": "Owner"
+                }
+            ], 
+            "CidrBlock": "10.9.6.0/23", 
+            "MapPublicIpOnLaunch": false, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-3b1a7963", 
+            "AvailableIpAddressCount": 505
+        }, 
+        {
+            "VpcId": "vpc-5276c735", 
+            "Tags": [
+                {
+                    "Value": "jfrueh@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "jfrueh@homeaway.com", 
+                    "Key": "Owner"
+                }, 
+                {
+                    "Value": "corpit", 
+                    "Key": "Team"
+                }, 
+                {
+                    "Value": "private", 
+                    "Key": "Function"
+                }, 
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }, 
+                {
+                    "Value": "jasonf-sandbox", 
+                    "Key": "Name"
+                }
+            ], 
+            "CidrBlock": "10.0.3.0/24", 
+            "MapPublicIpOnLaunch": false, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1c", 
+            "SubnetId": "subnet-aa451880", 
+            "AvailableIpAddressCount": 251
+        }, 
+        {
+            "VpcId": "vpc-13e67474", 
+            "Tags": [
+                {
+                    "Value": "cldplt", 
+                    "Key": "Billing"
+                }, 
+                {
+                    "Value": "ascherger@homeaway.com", 
+                    "Key": "Contact"
+                }, 
+                {
+                    "Value": "ascherger-private_aws-us-east-1d", 
+                    "Key": "Name"
+                }
+            ], 
+            "CidrBlock": "10.0.112.0/20", 
+            "MapPublicIpOnLaunch": false, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1d", 
+            "SubnetId": "subnet-f44eafbd", 
+            "AvailableIpAddressCount": 4091
+        }, 
+        {
+            "VpcId": "vpc-18f6ee7c", 
+            "Tags": [
+                {
+                    "Value": "jf-sandbox-sub1", 
+                    "Key": "Name"
+                }
+            ], 
+            "CidrBlock": "10.2.0.0/28", 
+            "MapPublicIpOnLaunch": false, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1e", 
+            "SubnetId": "subnet-566c246b", 
+            "AvailableIpAddressCount": 10
+        }, 
+        {
+            "VpcId": "vpc-a6c95ec1", 
+            "Tags": [
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "public", 
+                    "Key": "Function"
+                }, 
+                {
+                    "Value": "MySQL_TerraForm_OneClick_Deploy", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }, 
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Owner"
+                }, 
+                {
+                    "Value": "platform engineering", 
+                    "Key": "Team"
+                }
+            ], 
+            "CidrBlock": "10.27.0.0/28", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-0e5c6b56", 
+            "AvailableIpAddressCount": 11
+        }, 
+        {
+            "VpcId": "vpc-13e67474", 
+            "Tags": [
+                {
+                    "Value": "cldplt", 
+                    "Key": "Billing"
+                }, 
+                {
+                    "Value": "ascherger@homeaway.com", 
+                    "Key": "Contact"
+                }, 
+                {
+                    "Value": "ascherger-private_aws-us-east-1c", 
+                    "Key": "Name"
+                }
+            ], 
+            "CidrBlock": "10.0.96.0/20", 
+            "MapPublicIpOnLaunch": false, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1c", 
+            "SubnetId": "subnet-5664547c", 
+            "AvailableIpAddressCount": 4091
+        }, 
+        {
+            "VpcId": "vpc-13e67474", 
+            "Tags": [
+                {
+                    "Value": "ascherger-public-us-east-1e", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "cldplt", 
+                    "Key": "Billing"
+                }, 
+                {
+                    "Value": "ascherger@homeaway.com", 
+                    "Key": "Contact"
+                }
+            ], 
+            "CidrBlock": "10.0.32.0/20", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1e", 
+            "SubnetId": "subnet-df3538e2", 
+            "AvailableIpAddressCount": 4090
+        }, 
+        {
+            "VpcId": "vpc-e1157786", 
+            "CidrBlock": "172.30.0.0/24", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-851017dd", 
+            "AvailableIpAddressCount": 251
+        }, 
+        {
+            "VpcId": "vpc-0f5df268", 
+            "Tags": [
+                {
+                    "Value": "atlas-public-2", 
+                    "Key": "Name"
+                }
+            ], 
+            "CidrBlock": "10.0.2.0/24", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1c", 
+            "SubnetId": "subnet-da194cf0", 
+            "AvailableIpAddressCount": 245
+        }, 
+        {
+            "VpcId": "vpc-13e67474", 
+            "Tags": [
+                {
+                    "Value": "cldplt", 
+                    "Key": "Billing"
+                }, 
+                {
+                    "Value": "ascherger@homeaway.com", 
+                    "Key": "Contact"
+                }, 
+                {
+                    "Value": "ascherger-private-us-east-1d", 
+                    "Key": "Name"
+                }
+            ], 
+            "CidrBlock": "10.0.64.0/20", 
+            "MapPublicIpOnLaunch": false, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1d", 
+            "SubnetId": "subnet-f24eafbb", 
+            "AvailableIpAddressCount": 4091
+        }, 
+        {
+            "VpcId": "vpc-9c3ea2fb", 
+            "Tags": [
+                {
+                    "Value": "Database Operations", 
+                    "Key": "Team"
+                }, 
+                {
+                    "Value": "dbops-sandbox", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "dbops@homeaway.com", 
+                    "Key": "Owner"
+                }, 
+                {
+                    "Value": "public", 
+                    "Key": "Function"
+                }, 
+                {
+                    "Value": "dbops@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }
+            ], 
+            "CidrBlock": "10.27.0.0/28", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-7b85b723", 
+            "AvailableIpAddressCount": 10
+        }, 
+        {
+            "VpcId": "vpc-0b4e266c", 
+            "Tags": [
+                {
+                    "Value": "Private subnet", 
+                    "Key": "Name"
+                }
+            ], 
+            "CidrBlock": "10.0.2.0/24", 
+            "MapPublicIpOnLaunch": false, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1d", 
+            "SubnetId": "subnet-9a38cad3", 
+            "AvailableIpAddressCount": 251
+        }, 
+        {
+            "VpcId": "vpc-873af1e0", 
+            "Tags": [
+                {
+                    "Value": "EDSSubnet3", 
+                    "Key": "Name"
+                }
+            ], 
+            "CidrBlock": "10.0.32.0/20", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1d", 
+            "SubnetId": "subnet-fb4c608d", 
+            "AvailableIpAddressCount": 4091
+        }, 
+        {
+            "VpcId": "vpc-e5ca8d82", 
+            "Tags": [
+                {
+                    "Value": "platform engineering", 
+                    "Key": "Team"
+                }, 
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }, 
+                {
+                    "Value": "public", 
+                    "Key": "Function"
+                }, 
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Owner"
+                }, 
+                {
+                    "Value": "myan-sandbox", 
+                    "Key": "Name"
+                }
+            ], 
+            "CidrBlock": "10.27.0.0/28", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-3db2a065", 
+            "AvailableIpAddressCount": 11
+        }, 
+        {
+            "VpcId": "vpc-13e67474", 
+            "Tags": [
+                {
+                    "Value": "ascherger@homeaway.com", 
+                    "Key": "Contact"
+                }, 
+                {
+                    "Value": "ascherger-public-us-east-1d", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "cldplt", 
+                    "Key": "Billing"
+                }
+            ], 
+            "CidrBlock": "10.0.16.0/20", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1d", 
+            "SubnetId": "subnet-f54eafbc", 
+            "AvailableIpAddressCount": 4090
+        }, 
+        {
+            "VpcId": "vpc-57c85330", 
+            "Tags": [
+                {
+                    "Value": "dbops-sandbox", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }, 
+                {
+                    "Value": "public", 
+                    "Key": "Function"
+                }, 
+                {
+                    "Value": "Database Operations", 
+                    "Key": "Team"
+                }, 
+                {
+                    "Value": "dbops@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "dbops@homeaway.com", 
+                    "Key": "Owner"
+                }
+            ], 
+            "CidrBlock": "10.27.0.0/28", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-25516f7d", 
+            "AvailableIpAddressCount": 10
+        }, 
+        {
+            "VpcId": "vpc-5276c735", 
+            "Tags": [
+                {
+                    "Value": "jasonf-sandbox", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "public", 
+                    "Key": "Function"
+                }, 
+                {
+                    "Value": "jfrueh@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }, 
+                {
+                    "Value": "jfrueh@homeaway.com", 
+                    "Key": "Owner"
+                }, 
+                {
+                    "Value": "corpit", 
+                    "Key": "Team"
+                }
+            ], 
+            "CidrBlock": "10.0.1.0/24", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-7b0a5423", 
+            "AvailableIpAddressCount": 251
+        }, 
+        {
+            "VpcId": "vpc-7686f611", 
+            "Tags": [
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }, 
+                {
+                    "Value": "public", 
+                    "Key": "Function"
+                }, 
+                {
+                    "Value": "platform engineering", 
+                    "Key": "Team"
+                }, 
+                {
+                    "Value": "Heartbeat_test", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Owner"
+                }
+            ], 
+            "CidrBlock": "10.27.0.0/28", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-de3b3386", 
+            "AvailableIpAddressCount": 10
+        }, 
+        {
+            "VpcId": "vpc-14a62d73", 
+            "CidrBlock": "172.30.1.0/24", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1c", 
+            "SubnetId": "subnet-bcb59d96", 
+            "AvailableIpAddressCount": 251
+        }, 
+        {
+            "VpcId": "vpc-0b4e266c", 
+            "Tags": [
+                {
+                    "Value": "Public subnet", 
+                    "Key": "Name"
+                }
+            ], 
+            "CidrBlock": "10.0.1.0/24", 
+            "MapPublicIpOnLaunch": false, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1d", 
+            "SubnetId": "subnet-9d38cad4", 
+            "AvailableIpAddressCount": 250
+        }, 
+        {
+            "VpcId": "vpc-13e67474", 
+            "Tags": [
+                {
+                    "Value": "cldplt", 
+                    "Key": "Billing"
+                }, 
+                {
+                    "Value": "ascherger-private-us-east-1e", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "ascherger@homeaway.com", 
+                    "Key": "Contact"
+                }
+            ], 
+            "CidrBlock": "10.0.80.0/20", 
+            "MapPublicIpOnLaunch": false, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1e", 
+            "SubnetId": "subnet-dc3538e1", 
+            "AvailableIpAddressCount": 4091
+        }, 
+        {
+            "VpcId": "vpc-ea8d028d", 
+            "Tags": [
+                {
+                    "Value": "public", 
+                    "Key": "Function"
+                }, 
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Owner"
+                }, 
+                {
+                    "Value": "platform engineering", 
+                    "Key": "Team"
+                }, 
+                {
+                    "Value": "mlucero-sandbox", 
+                    "Key": "Name"
+                }, 
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }
+            ], 
+            "CidrBlock": "10.27.0.0/28", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-8c557cd4", 
+            "AvailableIpAddressCount": 11
+        }, 
+        {
+            "VpcId": "vpc-e5bbce82", 
+            "Tags": [
+                {
+                    "Value": "marsmith-sandbox-outside", 
+                    "Key": "Name"
+                }
+            ], 
+            "CidrBlock": "192.168.1.0/24", 
+            "MapPublicIpOnLaunch": false, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-44cfc31c", 
+            "AvailableIpAddressCount": 250
+        }, 
+        {
+            "VpcId": "vpc-e1157786", 
+            "CidrBlock": "172.30.2.0/24", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1d", 
+            "SubnetId": "subnet-1aee1953", 
+            "AvailableIpAddressCount": 251
+        }, 
+        {
+            "VpcId": "vpc-fbb2c89c", 
+            "Tags": [
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }, 
+                {
+                    "Value": "platform engineering", 
+                    "Key": "Team"
+                }, 
+                {
+                    "Value": "platformengineering@homeaway.com", 
+                    "Key": "Owner"
+                }, 
+                {
+                    "Value": "public", 
+                    "Key": "Function"
+                }, 
+                {
+                    "Value": "cparker-whaddup", 
+                    "Key": "Name"
+                }
+            ], 
+            "CidrBlock": "10.27.0.0/28", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-3568786d", 
+            "AvailableIpAddressCount": 10
+        }, 
+        {
+            "VpcId": "vpc-dc6a08bb", 
+            "CidrBlock": "172.30.3.0/24", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1e", 
+            "SubnetId": "subnet-d2808aef", 
+            "AvailableIpAddressCount": 251
+        }, 
+        {
+            "VpcId": "vpc-697a170e", 
+            "Tags": [
+                {
+                    "Value": "Data Science", 
+                    "Key": "Team"
+                }, 
+                {
+                    "Value": "bschneeman@homeaway.com", 
+                    "Key": "Creator"
+                }, 
+                {
+                    "Value": "bschneeman@homeaway.com", 
+                    "Key": "Owner"
+                }, 
+                {
+                    "Value": "public", 
+                    "Key": "Function"
+                }, 
+                {
+                    "Value": "sandbox", 
+                    "Key": "Environment"
+                }, 
+                {
+                    "Value": "bschneeman-tensorflow", 
+                    "Key": "Name"
+                }
+            ], 
+            "CidrBlock": "10.27.0.0/28", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-567a7c0e", 
+            "AvailableIpAddressCount": 10
+        }, 
+        {
+            "VpcId": "vpc-6e582c09", 
+            "Tags": [
+                {
+                    "Value": "test-amccook-subnet", 
+                    "Key": "Name"
+                }
+            ], 
+            "CidrBlock": "10.3.0.0/16", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-fd646ba5", 
+            "AvailableIpAddressCount": 65530
+        }, 
+        {
+            "VpcId": "vpc-7e583a19", 
+            "Tags": [
+                {
+                    "Value": "coreOS-Subnet", 
+                    "Key": "Name"
+                }
+            ], 
+            "CidrBlock": "10.0.0.0/24", 
+            "MapPublicIpOnLaunch": false, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-aecec9f6", 
+            "AvailableIpAddressCount": 251
+        }, 
+        {
+            "VpcId": "vpc-0f5df268", 
+            "Tags": [
+                {
+                    "Value": "atlas-private-1", 
+                    "Key": "Name"
+                }
+            ], 
+            "CidrBlock": "10.0.1.0/24", 
+            "MapPublicIpOnLaunch": false, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-2f227477", 
+            "AvailableIpAddressCount": 247
+        }, 
+        {
+            "VpcId": "vpc-aecc44c9", 
+            "Tags": [
+                {
+                    "Value": "default public", 
+                    "Key": "Name"
+                }
+            ], 
+            "CidrBlock": "10.0.0.0/24", 
+            "MapPublicIpOnLaunch": false, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1a", 
+            "SubnetId": "subnet-15311a4d", 
+            "AvailableIpAddressCount": 251
+        }, 
+        {
+            "VpcId": "vpc-dc6a08bb", 
+            "CidrBlock": "172.30.2.0/24", 
+            "MapPublicIpOnLaunch": true, 
+            "DefaultForAz": false, 
+            "State": "available", 
+            "AvailabilityZone": "us-east-1d", 
+            "SubnetId": "subnet-53d0271a", 
+            "AvailableIpAddressCount": 249
+        }
+    ]
+}

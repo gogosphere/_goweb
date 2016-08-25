@@ -1,0 +1,158 @@
+{
+    "Users": [
+        {
+            "UserName": "amccook", 
+            "Path": "/", 
+            "CreateDate": "2016-08-23T16:38:17Z", 
+            "UserId": "AIDAJVNITZYJFXQSNQRKQ", 
+            "Arn": "arn:aws:iam::177623757656:user/amccook"
+        }, 
+        {
+            "UserName": "checkup-monitor-s3-public", 
+            "Path": "/", 
+            "CreateDate": "2016-08-10T16:55:31Z", 
+            "UserId": "AIDAJNL2Q3H7MCRXVUAXM", 
+            "Arn": "arn:aws:iam::177623757656:user/checkup-monitor-s3-public"
+        }, 
+        {
+            "UserName": "conformityjanitormonkey", 
+            "Path": "/", 
+            "CreateDate": "2016-08-11T22:09:32Z", 
+            "UserId": "AIDAJGP2D42DU5A4DS4ZE", 
+            "Arn": "arn:aws:iam::177623757656:user/conformityjanitormonkey"
+        }, 
+        {
+            "UserName": "EDSRDSServiceUser", 
+            "Path": "/", 
+            "CreateDate": "2016-05-24T02:23:10Z", 
+            "UserId": "AIDAIZV26XQIBVR6XXYUI", 
+            "Arn": "arn:aws:iam::177623757656:user/EDSRDSServiceUser"
+        }, 
+        {
+            "UserName": "elasticsearch", 
+            "Path": "/", 
+            "CreateDate": "2016-05-15T07:53:42Z", 
+            "UserId": "AIDAIZS2CYZUV77HPDPZ2", 
+            "Arn": "arn:aws:iam::177623757656:user/elasticsearch"
+        }, 
+        {
+            "UserName": "fastly-logs", 
+            "Path": "/", 
+            "CreateDate": "2016-05-30T19:15:27Z", 
+            "UserId": "AIDAIHU25R35JXYAIBRX4", 
+            "Arn": "arn:aws:iam::177623757656:user/fastly-logs"
+        }, 
+        {
+            "UserName": "ICE", 
+            "Path": "/", 
+            "CreateDate": "2016-04-29T19:25:42Z", 
+            "UserId": "AIDAIRRSRTV5KMWSGSCY4", 
+            "Arn": "arn:aws:iam::177623757656:user/ICE"
+        }, 
+        {
+            "UserName": "jenkins", 
+            "Path": "/", 
+            "CreateDate": "2016-05-12T15:44:26Z", 
+            "UserId": "AIDAJ3557J5FYQ245YDR2", 
+            "Arn": "arn:aws:iam::177623757656:user/jenkins"
+        }, 
+        {
+            "UserName": "media-catalog-user-1", 
+            "Path": "/", 
+            "CreateDate": "2016-08-25T14:47:23Z", 
+            "UserId": "AIDAJKSND5T3VGNMJCMWU", 
+            "Arn": "arn:aws:iam::177623757656:user/media-catalog-user-1"
+        }, 
+        {
+            "UserName": "myan", 
+            "Path": "/", 
+            "CreateDate": "2016-08-24T16:19:30Z", 
+            "UserId": "AIDAITWNM6SJBO7YM6WIS", 
+            "Arn": "arn:aws:iam::177623757656:user/myan"
+        }, 
+        {
+            "UserName": "odis-qa-sandbox-dynamo-admin", 
+            "Path": "/", 
+            "CreateDate": "2016-08-22T19:23:03Z", 
+            "UserId": "AIDAI6PM3F5QBDN2VYNNK", 
+            "Arn": "arn:aws:iam::177623757656:user/odis-qa-sandbox-dynamo-admin"
+        }, 
+        {
+            "UserName": "odis-qa-sandbox-integration-apimedia", 
+            "Path": "/", 
+            "CreateDate": "2016-08-22T19:23:03Z", 
+            "UserId": "AIDAJFNA36MKFLUV34II2", 
+            "Arn": "arn:aws:iam::177623757656:user/odis-qa-sandbox-integration-apimedia"
+        }, 
+        {
+            "UserName": "odis-qa-sandbox-integration-computator", 
+            "Path": "/", 
+            "CreateDate": "2016-08-22T19:23:03Z", 
+            "UserId": "AIDAIXXOGJB5O4LK3QDWG", 
+            "Arn": "arn:aws:iam::177623757656:user/odis-qa-sandbox-integration-computator"
+        }, 
+        {
+            "UserName": "odis-qa-sandbox-integration-jumbotron", 
+            "Path": "/", 
+            "CreateDate": "2016-08-22T19:23:03Z", 
+            "UserId": "AIDAJX2EKBA7YQGN7TFJA", 
+            "Arn": "arn:aws:iam::177623757656:user/odis-qa-sandbox-integration-jumbotron"
+        }, 
+        {
+            "UserName": "odis-qa-sandbox-origination", 
+            "Path": "/", 
+            "CreateDate": "2016-08-22T19:23:04Z", 
+            "UserId": "AIDAJGMG5O55JACEE7PG6", 
+            "Arn": "arn:aws:iam::177623757656:user/odis-qa-sandbox-origination"
+        }, 
+        {
+            "UserName": "PackerAMIBuilder", 
+            "Path": "/", 
+            "CreateDate": "2016-05-18T18:10:07Z", 
+            "UserId": "AIDAJJJ3EOH2S3AEURGKQ", 
+            "Arn": "arn:aws:iam::177623757656:user/PackerAMIBuilder"
+        }, 
+        {
+            "UserName": "qa-automation-user", 
+            "Path": "/", 
+            "CreateDate": "2016-08-10T15:11:06Z", 
+            "UserId": "AIDAJRRTO5PQ2HLGJHEH2", 
+            "Arn": "arn:aws:iam::177623757656:user/qa-automation-user"
+        }, 
+        {
+            "UserName": "s3-people", 
+            "Path": "/", 
+            "CreateDate": "2016-06-23T06:12:43Z", 
+            "UserId": "AIDAICJX5GNJZZSCXDTDE", 
+            "Arn": "arn:aws:iam::177623757656:user/s3-people"
+        }, 
+        {
+            "UserName": "s3-slackslashcommands", 
+            "Path": "/slack/", 
+            "CreateDate": "2016-06-15T10:27:57Z", 
+            "UserId": "AIDAIU3Z35ALEKNJIVAAC", 
+            "Arn": "arn:aws:iam::177623757656:user/slack/s3-slackslashcommands"
+        }, 
+        {
+            "UserName": "sso-user", 
+            "Path": "/", 
+            "CreateDate": "2016-04-29T19:25:42Z", 
+            "UserId": "AIDAIDUQCZ63PPY46EM5U", 
+            "Arn": "arn:aws:iam::177623757656:user/sso-user"
+        }, 
+        {
+            "UserName": "vault-ldap-tspinks-admin-1472135472-8259", 
+            "Path": "/", 
+            "CreateDate": "2016-08-25T14:31:12Z", 
+            "UserId": "AIDAJQ2EVSVTTINMNQUYM", 
+            "Arn": "arn:aws:iam::177623757656:user/vault-ldap-tspinks-admin-1472135472-8259"
+        }, 
+        {
+            "UserName": "vault-ldap-whancock-admin-1472126924-6024", 
+            "Path": "/", 
+            "CreateDate": "2016-08-25T12:08:44Z", 
+            "UserId": "AIDAIK3S42RFL763JW4GM", 
+            "Arn": "arn:aws:iam::177623757656:user/vault-ldap-whancock-admin-1472126924-6024"
+        }
+    ]
+}
