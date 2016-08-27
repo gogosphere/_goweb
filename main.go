@@ -58,6 +58,7 @@ func CalledFileHTML(w http.ResponseWriter, r *http.Request) {
 
 	w.Header().Set("Content-Type", "text/html; charset=UTF-8")
 	fmt.Fprintln(w, string(file))
+	fmt.Println(vars, "html")
 }
 
 func CalledFileJson(w http.ResponseWriter, r *http.Request) {
@@ -71,4 +72,5 @@ func CalledFileJson(w http.ResponseWriter, r *http.Request) {
 
 	w.Header().Set("Content-Type", "application/json; charset=UTF-8")
 	fmt.Fprintln(w, string(file))
+	fmt.Println(vars, "json")
 }
